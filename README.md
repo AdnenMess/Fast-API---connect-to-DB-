@@ -1,5 +1,4 @@
-class Optional:
-pass# FASTAPI
+# FASTAPI
 
 
 We have to install `fastapi` and `uvicorn(light web server)`
@@ -277,7 +276,7 @@ db.commit()
 
 if we have a relation of tables like this :
 
-<img src="C:\Project\API\SecondAPIProject\db\Relationship.png"/>
+<img src="db\Relationship.png"/>
 
 1. Define relationship in models :
 
